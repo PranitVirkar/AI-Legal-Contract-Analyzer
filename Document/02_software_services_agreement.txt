@@ -1,0 +1,21 @@
+SOFTWARE SERVICES AGREEMENT
+
+This Software Services Agreement is between Bright Retail Ltd. ("Client") and CodeCraft Solutions ("Service Provider"), effective February 10, 2026.
+
+1. Services
+The Service Provider shall develop and maintain a web application for the Client.
+
+2. Payment
+The Client shall pay INR 4,50,000 for development services. An advance payment of INR 1,50,000 is due upon signing. The remaining amount shall be paid after delivery.
+
+3. Delivery
+The Service Provider shall deliver the first production version within 90 days.
+
+4. Liability
+The Service Provider shall be responsible for direct damages caused by intentional misconduct or gross negligence.
+
+5. Confidentiality
+Both parties must protect confidential technical and business information.
+
+6. Termination
+Either party may terminate this agreement with 15 days written notice if the other party materially breaches the agreement.

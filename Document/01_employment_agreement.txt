@@ -1,0 +1,21 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is between Apex Technologies Pvt. Ltd. ("Company") and Rahul Sharma ("Employee"), effective January 1, 2026.
+
+1. Position and Duties
+The Employee shall work as a Software Engineer and shall perform duties assigned by the Company.
+
+2. Compensation
+The Company shall pay the Employee a monthly salary of INR 75,000. Salary shall be paid on the last working day of each month.
+
+3. Confidentiality
+The Employee must keep confidential all proprietary information, source code, customer information, and business information of the Company.
+
+4. Termination
+Either party may terminate this agreement by providing 30 days written notice. The Company may terminate the agreement immediately for serious misconduct or material breach.
+
+5. Intellectual Property
+All software and documentation created by the Employee in the course of employment shall belong to the Company.
+
+6. Governing Law
+This agreement shall be governed by the laws applicable in Maharashtra, India.

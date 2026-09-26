@@ -1,0 +1,24 @@
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement is between CloudDesk Technologies ("Provider") and Orion Consulting ("Customer"), effective July 1, 2026.
+
+1. Service
+The Provider shall provide access to its cloud-based project management platform.
+
+2. Subscription Fee
+The Customer shall pay INR 20,000 per month for the subscription.
+
+3. Automatic Renewal
+The subscription shall automatically renew for additional one-month periods unless either party provides written cancellation notice at least 15 days before renewal.
+
+4. Data
+The Provider shall implement reasonable security measures to protect Customer data.
+
+5. Service Availability
+The Provider shall use commercially reasonable efforts to maintain service availability.
+
+6. Limitation of Liability
+The Provider's total liability under this agreement shall not exceed the subscription fees paid by the Customer during the previous six months.
+
+7. Termination
+Either party may terminate the subscription for material breach if the breach is not corrected within 15 days after written notice.

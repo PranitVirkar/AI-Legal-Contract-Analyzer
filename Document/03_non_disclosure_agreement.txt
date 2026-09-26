@@ -1,0 +1,21 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement is between Nova Analytics Pvt. Ltd. ("Disclosing Party") and Priya Mehta ("Receiving Party"), effective March 5, 2026.
+
+1. Confidential Information
+Confidential Information includes business plans, customer records, source code, algorithms, financial information, and technical documentation.
+
+2. Obligations
+The Receiving Party shall not disclose or use Confidential Information except for the purpose authorized by the Disclosing Party.
+
+3. Security
+The Receiving Party must take reasonable measures to prevent unauthorized access to Confidential Information.
+
+4. Exceptions
+Information that becomes publicly available without breach of this agreement shall not be considered Confidential Information.
+
+5. Duration
+The confidentiality obligations shall continue for three years after termination.
+
+6. Termination
+Either party may terminate this agreement with 30 days written notice.

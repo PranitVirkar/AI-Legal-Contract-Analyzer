@@ -1,0 +1,21 @@
+FREELANCE DEVELOPMENT AGREEMENT
+
+This Agreement is between MarketPro Inc. ("Client") and Arjun Patil ("Freelancer"), effective April 1, 2026.
+
+1. Services
+The Freelancer shall develop a mobile application according to the requirements provided by the Client.
+
+2. Payment
+The Client shall pay a total fee of INR 2,00,000. Fifty percent shall be paid before development begins and fifty percent upon final delivery.
+
+3. Intellectual Property
+Upon receipt of full payment, ownership of custom source code created specifically for the Client shall transfer to the Client.
+
+4. Delay
+The Freelancer shall inform the Client promptly if circumstances are likely to delay delivery.
+
+5. Confidentiality
+The Freelancer must keep Client information confidential.
+
+6. Termination
+The Client may terminate the agreement if the Freelancer fails to deliver the project after a written 15-day cure period.
